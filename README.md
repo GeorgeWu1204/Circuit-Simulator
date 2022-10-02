@@ -3,7 +3,7 @@ ELEC40006 Electronics Design Project
 
 This repository contains the circuit simulator project, which is the 1st Year end-of-year project for Imperial College London EIE department. This project scores 71.23% overall. The program attempt to realize the same functionality as the SPICE. It could conduct AC and DC analysis for various circuits including diodes with ideal accuracy. 
 
-#How to run this code
+# How to run this code
 
 :star: find_final_sol: This makes sure that the user only needs to input the name of this function and instructions in the main, and the rest of the instructions would appear in the terminal. The order of the implementation of the function is as follows: 
 
